@@ -6,19 +6,19 @@ print(soma(3, 7343284328748234))
 
 
 def simples (cor):
-    if cor == 'rosa':
-        return 'escolheu certo'
+    if cor == 'vermelho':
+        return 'escolha certa'
     
 def completo (cor):
-    if cor == 'rosa':
-        return 'vc e linda'
-    elif cor == 'roxo':
+    if cor == 'vermelho':
+        return 'vc e foda'
+    elif cor == 'azul':
         return 'vc e top'
     else:
         return 'vsf ein'
     
 def medio (cor):
-    if cor == 'azul':
-      return 'escolheu certo'
+    if cor == 'verde':
+      return 'escolha certa'
     else: 
       return 'tente dnv'
